@@ -1,1 +1,0 @@
-### Ecuaciones diferenciales ordinarias (EDO)
